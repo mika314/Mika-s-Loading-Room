@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 3f1f3a85373a66c4eae6835d6660527a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Area
+    100002: cabinet
+    100004: Camera
+    100006: chair
+    100008: couch
+    100010: curtain
+    100012: curtain-holder
+    100014: floor
+    100016: keyboard
+    100018: lamp
+    100020: Light
+    100022: //RootNode
+    100024: monitor 24"
+    100026: monitor 25"
+    100028: mouse
+    100030: music_stand
+    100032: piano
+    100034: piano stand
+    100036: piano stool
+    100038: Plane
+    100040: table
+    100042: walls
+    100044: Light.001
+    100046: Light.002
+    100048: Light.003
+    100050: Light.004
+    100052: shelf
+    100054: Light.005
+    100056: Light.006
+    100058: Light.007
+    100060: Light.008
+    100062: Sun
+    100064: pilar
+    100066: Mika's Fav Avatars
+    400000: Area
+    400002: cabinet
+    400004: Camera
+    400006: chair
+    400008: couch
+    400010: curtain
+    400012: curtain-holder
+    400014: floor
+    400016: keyboard
+    400018: lamp
+    400020: Light
+    400022: //RootNode
+    400024: monitor 24"
+    400026: monitor 25"
+    400028: mouse
+    400030: music_stand
+    400032: piano
+    400034: piano stand
+    400036: piano stool
+    400038: Plane
+    400040: table
+    400042: walls
+    400044: Light.001
+    400046: Light.002
+    400048: Light.003
+    400050: Light.004
+    400052: shelf
+    400054: Light.005
+    400056: Light.006
+    400058: Light.007
+    400060: Light.008
+    400062: Sun
+    400064: pilar
+    400066: Mika's Fav Avatars
+    2000000: Camera
+    2100000: fabric.002
+    2100002: red light
+    2100004: black plastic
+    2100006: blue light
+    2100008: black plastic.001
+    2100010: silver plastic
+    2100012: led on
+    2100014: led off
+    2100016: button
+    2100018: silver_plastic
+    2100020: black_plastic
+    2100022: screen_shot
+    2100024: black_plastic.001
+    2100026: screen_shot.001
+    2100028: silver_plastic.001
+    2100030: green_led
+    2100032: Material.003
+    2100034: Material.002
+    2100036: black
+    2100038: fabric.001
+    2100040: metal
+    2100042: BlackPlastic
+    2100044: White Key
+    2100046: Speaker
+    2100048: led on.001
+    2100050: led off.001
+    2100052: wood.001
+    2100054: wheels
+    2100056: aluminum
+    2100058: Material.005
+    2100060: Material.004
+    2100062: carpet
+    2100064: wall
+    2100066: fabric
+    2100068: Material.006
+    2100070: Material.007
+    2100072: BlackPlastic.001
+    2100074: Material.009
+    2100076: wood.000
+    2100078: metal.001
+    2100080: Mika's Fav Avatars
+    2100082: grass
+    2100084: green
+    2300000: cabinet
+    2300002: chair
+    2300004: couch
+    2300006: curtain
+    2300008: curtain-holder
+    2300010: floor
+    2300012: keyboard
+    2300014: lamp
+    2300016: monitor 24"
+    2300018: monitor 25"
+    2300020: mouse
+    2300022: music_stand
+    2300024: piano
+    2300026: piano stand
+    2300028: piano stool
+    2300030: Plane
+    2300032: table
+    2300034: walls
+    2300036: shelf
+    2300038: pilar
+    2300040: Mika's Fav Avatars
+    3300000: cabinet
+    3300002: chair
+    3300004: couch
+    3300006: curtain
+    3300008: curtain-holder
+    3300010: floor
+    3300012: keyboard
+    3300014: lamp
+    3300016: monitor 24"
+    3300018: monitor 25"
+    3300020: mouse
+    3300022: music_stand
+    3300024: piano
+    3300026: piano stand
+    3300028: piano stool
+    3300030: Plane
+    3300032: table
+    3300034: walls
+    3300036: shelf
+    3300038: pilar
+    3300040: Mika's Fav Avatars
+    4300000: chair
+    4300002: mouse
+    4300004: keyboard
+    4300006: monitor 25"
+    4300008: monitor 24"
+    4300010: couch
+    4300012: piano stand
+    4300014: lamp
+    4300016: piano
+    4300018: table
+    4300020: cabinet
+    4300022: piano stool
+    4300024: floor
+    4300026: walls
+    4300028: curtain
+    4300030: curtain-holder
+    4300032: music_stand
+    4300034: Plane
+    4300036: shelf
+    4300038: pilar
+    4300040: Mika's Fav Avatars
+    10800000: Area
+    10800002: Light
+    10800004: Light.001
+    10800006: Light.002
+    10800008: Light.003
+    10800010: Light.004
+    10800012: Light.005
+    10800014: Light.006
+    10800016: Light.007
+    10800018: Light.008
+    10800020: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
